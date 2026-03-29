@@ -154,7 +154,7 @@ Enter your choice: 5
 
 ## Author
 
-**Student Name:** [Your Name]  
-**Course:** [Your Course Name]  
-**University:** [Your University Name]  
-**Submission Year:** 2025
+**Student Name:** Anuj Kosta 
+**Course:** Programming in Java 
+**University:** VIT Bhopal
+**Submission Year:** 2026
